@@ -13,4 +13,4 @@ OE Rule Manager, is a plugin for OE Studio which provide end users a web interfa
 * add oe-rule-manager to the application's [designer config](http://evgit/oecloud.io/oe-studio#configuration-for-designer-in-oe-cloud).
 * bower install `oe-rule-manager`
 
-> Learn more about OE Route Manager [here](docs/guide.md).
+> Learn more about OE Rule Manager [here](docs/guide.md).
