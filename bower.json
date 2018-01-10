@@ -26,9 +26,9 @@
     "paper-progress": "^1.0.0",
     "paper-tooltip": "^1.0.0",
     "oe-utils": "http://evgit/oecloud.io/oe-utils.git#master",
-    "iron-form":"^1.0.0",
-    "paper-icon-button":"^1.0.0",
-    "oe-ui-misc":"http://evgit/oecloud.io/oe-ui-misc.git#master"
+    "iron-form": "^1.0.0",
+    "paper-icon-button": "^1.0.0",
+    "oe-ui-misc": "http://evgit/oecloud.io/oe-ui-misc.git#master"
   },
   "devDependencies": {
     "web-component-tester": "*",
@@ -36,6 +36,8 @@
     "fakerest": "~1.1.4"
   },
   "resolutions": {
-    "test-fixture": "^3.0.0"
+    "test-fixture": "^3.0.0",
+    "oe-utils": "master",
+    "oe-ajax": "master"
   }
 }
